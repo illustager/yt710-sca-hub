@@ -22,7 +22,7 @@
 
 | 原语 | 成员 | 路径 | 状态 | 限制 | 备注 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
-|      |      |      |      |      |      |
+| Spectre-BHB 同进程原语（L1-1 / L1-1H） | WFY | [`Spectre/yt710-l1-bhb`](Spectre/yt710-l1-bhb) | 受限 | 同进程 EL0 自测；过闸命中率中位 ~30%、方差大；BHB 深度未裁决 | 上游 `vusec/bhi-spectre-bhb`；存在性 success（结论卡 v2.2） |
 
 ### 说明
 
